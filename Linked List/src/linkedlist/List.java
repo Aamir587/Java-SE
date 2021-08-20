@@ -3,7 +3,7 @@ package linkedlist;
 public class List {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Aamir"); 
+		 System.out.println("Hello Aamir"); 
 
 	}
 
